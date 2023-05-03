@@ -1,8 +1,7 @@
-### Hey 👋, I'm Luck!
+<img src = "https://raw.githubusercontent.com/walternascimentobarroso/walternascimentobarroso/master/matrix.svg">
 
-*Developer for SC Platforms*
-
----
+<h1 align="center">Hey 👋, I'm Luck</h1>
+<h4 align="center">Developer for SC Platforms</h4>
 
 A little more about me...
 
@@ -15,28 +14,28 @@ std::vector<std::string> Luck =
   "Champion Scripts"
 }
 ```
----
+<h1 align="center"></h1>
+
 Contact:
 
 <img src= "https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt= "Discord logo" width= "18" height= "18" /> Luck#2189
 
----
+<h1 align="center"></h1>
 
 🧰 Toolbox
 
 <img src= "https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt= "LUA logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt= "C logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt= "Py logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt= "Mongo logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt= "VSCODE logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt= "Github logo" width= "50" height= "50" />
 
-<!--
-**jpmorenorj/jpmorenorj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"></h1>
 
-Here are some ideas to get you started:
+<h3 align="center">⚡ &nbsp;Github Stats:</h3>
+<p align="left">
+<a href="https://github.com/jpmorenorj">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=jpmorenorj&show_icons=true&locale=en&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpmorenorj&show_icons=true&locale=en&theme=radical"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"></h1>
+
+Made with &nbsp;❤️&nbsp;
