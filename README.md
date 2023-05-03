@@ -1,15 +1,25 @@
 ### Hey 👋, I'm Luck!
 
-A Developer for SC Platforms.
+*Developer for SC Platforms*
 
 ---
 
-Projects so Far:
+A little more about me...
 
-- Orbwalker
-- Prediction [BETA]
-- Evade
-- Champion Scripts
+```C++
+std::vector<std::string> Luck = 
+{
+  "Dynasty Founder",
+  "Orbwalker",
+  "Prediction [BETA]",
+  "Evade",
+  "Champion Scripts"
+}
+```
+---
+Contact:
+
+<img src= "https://cdn.worldvectorlogo.com/logos/discord-11.svg" alt= "Discord logo" width= "18" height= "18" /> Luck#2189
 
 ---
 
