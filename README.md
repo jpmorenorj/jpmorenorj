@@ -29,7 +29,7 @@ Contact:
 <h1 align="center"></h1>
 
 <h3 align="center">⚡ &nbsp;Github Stats:</h3>
-<p align="left">
+<p align="center">
 <a href="https://github.com/jpmorenorj">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=jpmorenorj&show_icons=true&locale=en&layout=compact&theme=radical"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpmorenorj&show_icons=true&locale=en&theme=radical"/>
