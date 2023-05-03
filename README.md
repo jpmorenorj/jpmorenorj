@@ -1,5 +1,3 @@
-<img src = "https://raw.githubusercontent.com/walternascimentobarroso/walternascimentobarroso/master/matrix.svg">
-
 <h1 align="center">Hey 👋, I'm Luck</h1>
 <h4 align="center">Developer for SC Platforms</h4>
 
