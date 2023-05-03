@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋, I'm Luck!
+
+A C++ & Lua Developer for *LoL* Platforms
 
 <!--
 **jpmorenorj/jpmorenorj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
