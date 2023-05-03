@@ -9,7 +9,6 @@ A little more about me...
 ```C++
 std::vector<std::string> Luck = 
 {
-  "Dynasty Founder",
   "Orbwalker",
   "Prediction [BETA]",
   "Evade",
