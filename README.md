@@ -1,12 +1,21 @@
 ### Hey 👋, I'm Luck!
 
-A C++ & Lua Developer for Game Platforms.
+A Developer for SC Platforms.
+
+---
 
 Projects so Far:
--> Orbwalker
--> Prediction [BETA]
--> Evade
--> Champion Specific Scripts [AIO]
+
+- Orbwalker
+- Prediction [BETA]
+- Evade
+- Champion Scripts
+
+---
+
+🧰 Toolbox
+
+<img src= "https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" alt= "LUA logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt= "C logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt= "Py logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt= "Mongo logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt= "VSCODE logo" width= "50" height= "50" /><img src= "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt= "Github logo" width= "50" height= "50" />
 
 <!--
 **jpmorenorj/jpmorenorj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
