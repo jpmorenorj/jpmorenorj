@@ -1,6 +1,12 @@
 ### Hey 👋, I'm Luck!
 
-A C++ & Lua Developer for *LoL* Platforms
+A C++ & Lua Developer for Game Platforms.
+
+Projects so Far:
+-> Orbwalker
+-> Prediction [BETA]
+-> Evade
+-> Champion Specific Scripts [AIO]
 
 <!--
 **jpmorenorj/jpmorenorj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
